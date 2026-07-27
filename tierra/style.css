@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Engravers Gothic BT';
-  src: url('fonts/EngraversGothicBT.ttf') format('truetype');
+  src: url('/tierra/fonts/EngraversGothicBT.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
